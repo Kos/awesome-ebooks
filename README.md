@@ -25,6 +25,4 @@ List of resources related to production and distribution of digital books.
 
 ## DRM-free ebook shops and publishers
 
-
-
-
+- [ebookpoint](https://ebookpoint.pl/) (Polish)
