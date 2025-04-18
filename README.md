@@ -12,6 +12,7 @@ List of resources related to production and distribution of digital books.
   - [Children's Library](https://archive.org/details/iacl) collection
 - [Faded Page](https://www.fadedpage.com/): archive of ebooks public domain in Candada
 - [Standard Ebooks](https://standardebooks.org/): archive of ebooks public domain in the U.S.
+- [Library of Short Stories](https://www.libraryofshortstories.com/)
 
 ### Non-English
 
